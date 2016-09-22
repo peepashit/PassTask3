@@ -21,11 +21,3 @@
 	If there is a ship on that coordinate, a "hit" is issued, otherwise, it is a "miss".
 	A player wins when all ships are destroyed but hitting all the correct coordinates containing the ships (a total of 23 squares).
 
-#Game Screen and flow:
-
-
-#User Interface:
-
-#Gameplay:
-
-#Assets:
